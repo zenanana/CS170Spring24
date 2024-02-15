@@ -1,5 +1,7 @@
 """
 https://leetcode.com/problems/sum-of-subarray-minimums/
+Video Walkthrough: https://drive.google.com/file/d/1lQ_T9xpBYjt3vqrtlo7l0wHRIQ1QJppc/view?usp=drive_link
+
 Problem 1: Given an array of integers, find the sum of min(b), where b ranges over every contiguous subarray of arr
 Example: arr = [3, 1, 2, 4]
 Contiguous subarrays are [3], [1], [2], [4], [3,1], [1,2], [2,4], [3,1,2], [1,2,4], [3,1,2,4].

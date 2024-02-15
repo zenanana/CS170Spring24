@@ -15,6 +15,7 @@ class Solution:
         top_sort = []
         q = queue.Queue()
         
+        # kahn's algorithm
         for v, indegree in enumerate(indegrees):
             if indegree == 0: q.put(v)
 
